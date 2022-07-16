@@ -91,7 +91,7 @@ const listMessage = {
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':global.sig,
+'mediaUrl':https://Instagram/rall_nation09,
 'mediaType':2,
 'previewType':'pdf',
 'title':global.titlebot,
